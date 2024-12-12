@@ -1,0 +1,5 @@
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\AgendaApp.Form1.resources
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.Properties.Resources.resources
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive\Masaüstü\ajanda\ajanda\ajanda\obj\Debug\ajanda.csproj.CoreCompileInputs.cache
